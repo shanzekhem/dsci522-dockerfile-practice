@@ -1,8 +1,8 @@
-name: 'dsci-522-week2'
+name: 'dsci_522'
 channels:
   - conda-forge
   - defaults
 dependencies:
   - python=3.11
   - altair-all=5.4
-  - pandas==2.1.4
+  - pandas=2.1.4
